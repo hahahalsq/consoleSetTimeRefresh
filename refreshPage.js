@@ -22,4 +22,3 @@ function reload() {
     setTimeout('reload()', 1000 * timeout);
 }
 
-console.log('aaaaaa')
